@@ -1,5 +1,11 @@
 # @nhost/dashboard
 
+## 0.11.0
+
+### Minor Changes
+
+- 1ebaf429: feat(dashboard): introduce Dark Mode 🌚
+
 ## 0.10.1
 
 ### Patch Changes
